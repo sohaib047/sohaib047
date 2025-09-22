@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer scientist who is worked as Full Stack MEAN Stack Developer.<br>I have worked on a couple of products and projects in my experience. I also work in python like web scraping.<br>I can work with various technology and software solutions and deal with databases. A valuable team member who is willing to<br>diagnose problems and develop solutions.
+I am a computer scientist, worked as Full Stack MEAN Stack Developer.<br>I have worked on seven software products and several projects in my experience. I also worked in python like web scraping.<br>I can work with various technology and software solutions and deal with databases. A valuable team member who is willing to<br>diagnose problems and develop solutions.
 
 
 ## 🌐 Socials:
